@@ -1,1 +1,13 @@
-# Supervisor
+<div align="center">
+  <img width="400" height="400" alt="logo-with-supervisor-subtitle -cropped-modified" src="https://github.com/user-attachments/assets/ee03fb1e-2f78-4cae-a4c6-91dd45972a72" />
+  <h1>👁️ Cloudpayout Supervisor</h1>
+  <h3><em>Official Cloudpayout Supervisor to initialize automations on popular Casino games (Aviator, Spaceman, Dino)</em></h3>
+</div>
+
+<p align="center">
+  <a href="https://github.com/cloudpayout/supervisor/releases"><img src="https://img.shields.io/github/v/release/cloudpayout/supervisor" alt="GitHub release"></a>
+</p>
+
+Cloudpayout Supervisor is the official CLI program to run automations on popular casino games such as Aviator, Spaceman, Dino, and so on.
+Supervisor monitors automations by running a single <a href="https://github.com/chromedp/chromedp">chromedp</a> instance and sharing the control of it with the
+automation scripts that will control a session.
