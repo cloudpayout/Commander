@@ -9,5 +9,4 @@
 </p>
 
 Cloudpayout Supervisor is the official CLI program to run automations on popular casino games such as Aviator, Spaceman, Dino, and so on.
-Supervisor monitors automations by running a single <a href="https://github.com/chromedp/chromedp">chromedp</a> instance and sharing the control of it with the
-automation scripts that will control a session.
+Supervisor monitors automations by running <a href="https://github.com/chromedp/chromedp">chromedp</a> instances and running the necessary code to run these automations.
